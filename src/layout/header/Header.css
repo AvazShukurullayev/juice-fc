@@ -1,0 +1,20 @@
+.nav__logo {
+  color: #fff;
+  letter-spacing: 2px;
+  font-weight: 600;
+  font-size: 30px;
+  transition: all 0.3s ease-in-out;
+}
+
+.nav__link {
+  color: #fff;
+  font-weight: 500;
+  font-size: 18px;
+  letter-spacing: 1.5px;
+  transition: all 0.3s ease-in-out;
+}
+
+.nav__logo:hover,
+.nav__link:hover {
+  color: #000;
+}

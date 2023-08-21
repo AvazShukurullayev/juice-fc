@@ -1,0 +1,9 @@
+.juice-card img{
+  width: 100%;
+  height: 200px;
+}
+
+.juice-text {
+  font-size: 14px;
+  text-align: justify;
+}
